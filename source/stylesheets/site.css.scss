@@ -11,6 +11,8 @@ body {
 
 a {
   color: rgba(#000, 0.7);
+  padding: 10px;
+  background: rgba(255,255,255,0.1);
 
   &:focus,
   &:hover {
