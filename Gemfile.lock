@@ -101,6 +101,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport (~> 5.0.6)
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
   tzinfo-data
